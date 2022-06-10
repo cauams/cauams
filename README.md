@@ -1,7 +1,7 @@
 ### Olá eu sou o Cauã, seja bem vindo(a) ao meu perfil!
 
 - 🔭 Atualmente cursando o primeiro semestre em Sistemas de Informação.
-- 🌱 Estou focando os meus estudos na linguagem Java, com o objetivo de começar a trabalhar com sistemas WEB.
+- 🌱 Estou focando os meus estudos na linguagem Java.
 - 📫 E-mail para contato: caua.scarabelotti@hotmail.com
 
 <div> 
