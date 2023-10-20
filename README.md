@@ -1,4 +1,4 @@
-## 👋 Hello, welcome to my profile!
+## 👋 Hello! welcome to my profile!
 
 - 🎓 Current on the fourth semester of Information Systems.
 - 👨‍💻 Backend developer at Philips Clinical Informatics.
