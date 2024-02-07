@@ -1,6 +1,6 @@
 ## 👋 Hello! welcome to my profile!
 
-- 🎓 Current on the fourth semester of Information Systems.
+- 🎓 Current on the fifth semester of Information Systems.
 - 👨‍💻 Backend developer at Philips Clinical Informatics.
 <div style="display: inline_block" align="center"><br>
   <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
